@@ -1,2 +1,2 @@
 # tool
-toolなど
+etc ..
